@@ -1,6 +1,6 @@
-## WGU Computer Science
+## BS:Computer Science 
 
-### Courses left
+### Classes
 - [ ] Calculus
 - [ ] Data Structures and Algorithms I
 - [ ] Discrete Mathematics I
