@@ -21,5 +21,5 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [Remaining classes in BSCS](/Classes.md)
 - [Android P1xt Guide](/Android.md)
 - [LaunchCode Back-End Java Track](/LaunchCode.md)
-- [Goodreads Book list](https://www.goodreads.com/review/list/84207402-cecilia?shelf=to-read)
+- [Goodreads Book list](https://www.goodreads.com/review/list/84207402-cecilia?shelf=currently-reading)
 - [Projects Completed](https://ceciliaconstantine.com)
