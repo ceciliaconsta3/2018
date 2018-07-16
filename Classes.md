@@ -7,6 +7,7 @@
 - [ ] OS for Programmers
 - [ ] DS II
 - [ ] Computer Architecture
+- [ ] Prep: [Tim B. Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/)
 - [ ] Software I
 - [ ] Software II
 - [ ] DS & A II
