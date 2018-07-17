@@ -4,7 +4,7 @@
 The following is a list of practice projects for android development intended to be used as ideas for portfolio projects or for use in a speedrun (set aside a month or two and speed through as many as you can in that time - as an intensive hands on practice.)
  
 ### Projects
-- [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [X] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [ ] Project: Build a Single Screen App
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
@@ -30,10 +30,8 @@ The following is a list of practice projects for android development intended to
 - [ ] Project: Make Your App Material
 - [ ] Advanced Project: Your choice - ideas listed below
 - [ ] Course: [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
-
 - [ ] Project: Outbreak
 - [ ] Course: [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
-
 - [ ] Project: Space Kerfuffle
 - [ ] Course: [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Course: [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
