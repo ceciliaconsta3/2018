@@ -1,5 +1,5 @@
 # 2018
-A look back on what I've accomplished this year
+A technical year in review
 
 ## Goals
 
@@ -15,7 +15,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - Projects Completed: 2
 - Books Read: 3
 - Korean Text Progress: null
-- Weeks of Activity: 10
+- Weeks of Adequate Activity: 34
 
 ## Work Breakdown
 - [Remaining classes in BSCS](/Classes.md)
