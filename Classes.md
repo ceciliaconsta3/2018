@@ -1,4 +1,4 @@
-## BS:Computer Science 
+## BS: Computer Science 
 
 ### Classes
 - [ ] Calculus
