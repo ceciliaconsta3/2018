@@ -4,9 +4,9 @@
 The following is a list of practice projects for android development intended to be used as ideas for portfolio projects or for use in a speedrun (set aside a month or two and speed through as many as you can in that time - as an intensive hands on practice.)
 
 ### LaunchCode: LC101 Summer 2018
-- [ ] Prep: Reach Ch's 0 - 4 and reviews
-- [ ] Prep: Assignment 1
-- [ ] Prep: Assignment 2
+- [X] Prep: Reach Ch's 0 - 4 and reviews
+- [X] Prep: Assignment 1
+- [X] Prep: Assignment 2
 
 ### LaunchCode: Core Java
 - [X] Course: [Udacity Intro to Java](https://www.udacity.com/course/java-programming-basics--ud282)
