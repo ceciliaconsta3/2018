@@ -7,6 +7,7 @@ The following is a list of practice projects for android development intended to
 - [X] Prep: Reach Ch's 0 - 4 and reviews
 - [X] Prep: Assignment 1
 - [X] Prep: Assignment 2
+- [ ] Prep 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 ### LaunchCode: Core Java
 - [X] Course: [Udacity Intro to Java](https://www.udacity.com/course/java-programming-basics--ud282)
