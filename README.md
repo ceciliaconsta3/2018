@@ -14,8 +14,8 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - School Credits Completed: 29 
 - Projects Completed: 2
 - Books Read: 3
-- Korean Text Progress: null
-- Weeks of Adequate Activity: 34
+- Korean Text Progress: Began
+- Weeks of Adequate Activity: 35
 
 ## Work Breakdown
 - [Remaining classes in BSCS](/Classes.md)
