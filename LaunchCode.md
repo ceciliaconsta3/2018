@@ -11,6 +11,7 @@ The following is a list of practice projects for android development intended to
 - [ ] Unit 1
 - [ ] Unit 2
 - [ ] Unit 3
+- [ ] Unit 4
 
 ### LaunchCode: Core Java
 - [X] Course: [Udacity Intro to Java](https://www.udacity.com/course/java-programming-basics--ud282)
