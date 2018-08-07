@@ -15,7 +15,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - Projects Completed: 2
 - Books Read: 3
 - Korean Text Progress: Began
-- Weeks of Adequate Activity: 35
+- Weeks of Adequate Activity: 36
 
 ## Work Breakdown
 - [Remaining classes in BSCS](/Classes.md)
