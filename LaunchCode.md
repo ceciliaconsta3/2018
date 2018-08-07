@@ -1,7 +1,7 @@
 ## Backend Development - LaunchCode Comprehensive
 
 ### LaunchCode: Prep
-- [ ] Prep 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+- [X] Prep 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 ### LaunchCode: Core Java
 - [X] Course: [Udacity Intro to Java](https://www.udacity.com/course/java-programming-basics--ud282)
