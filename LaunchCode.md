@@ -11,7 +11,6 @@
 
 ### LaunchCode: Android
 - [X] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ ] Course: [Java Class - Optional](https://github.com/mpmenne/launchcode-java-class)
 - [ ] Course: [Google - Build your First App](https://developer.android.com/training/basics/firstapp/)
 - [ ] Course: [Udacity - Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Course: [Codepath Android Cliffnotes](https://guides.codepath.com/android)
