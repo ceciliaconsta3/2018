@@ -13,7 +13,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 
 - School Credits Completed: 29 
 - Projects Completed: 2
-- Books Read: 3
+- Books Read: 4
 - Korean Text Progress: Began
 - Weeks of Adequate Activity: 36
 
