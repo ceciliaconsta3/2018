@@ -13,7 +13,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 
 - School Credits Completed: 29 
 - Books Read: 4
-- Korean Text Progress: Began
+- Korean Learning Log: Began
 - Weeks of Adequate Activity: 36
 
 ## Work Breakdown
