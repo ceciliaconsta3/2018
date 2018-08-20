@@ -18,5 +18,6 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [Remaining classes in BSCS](/Classes.md)
 - [Android P1xt Guide](/Android.md)
 - [Java LaunchCode Guide](/LaunchCode.md)
+- [Korean From Zero Guide](/Korean.md)
 - [Goodreads Book list](https://www.goodreads.com/review/list/84207402-cecilia?read_at=2018)
 - [Personal Site](https://ceciliaconstantine.com)
