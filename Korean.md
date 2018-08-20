@@ -1,7 +1,7 @@
 ## Korean From Zero
 
 ### Notes
-The following is the index for the Korean From Zero text, not including additional appendix items, to serve as a solid 
+The following is the index for the Korean From Zero 1 text, not including additional appendix items, to serve as a solid 
 guide to intermediate level proficiency and/or TOPIK 2 preparation.
 
 ### Content
@@ -31,6 +31,9 @@ guide to intermediate level proficiency and/or TOPIK 2 preparation.
 - [ ] Lesson 17 : Wanting and Colors
 
 ### Optional / For reference
-- [ ] [Yonsei University: First Step Korean](https://www.coursera.org/learn/learn-korean) 
+- [ ] [Yonsei University: First Step Korean](https://www.coursera.org/learn/learn-korean)
 - [ ] The KPOP Dictionary
 - [ ] The KPOP Dictionary 2
+- [ ] Korean From Zero 2
+- [ ] Korean From Zero 3
+
