@@ -6,7 +6,7 @@ Last year, I completed my first round of [#100DaysOfCode](https://github.com/cec
 
 Aside from programming, some of my other goals include reading more(ease in book a month), learning more Korean (work through a learning resource), and getting in better shape (let's set the stakes at 150min of moderate activity a week).
 
-Depending on time constraints and unforeseen circumstances, I may add some content which will be distinguished from the original content, but nothing will be removed so that at the end of the year a fair comparison can be made.
+Depending on time constraints and unforeseen circumstances, I may add some content or remove items that have been made redundant or irrelevant so that at the end of the year an accurate self-audit can be made. Anything I don't complete this year and is still viable will be added to next year's list.
 
 ## Progress
 - School Credits Completed: 29 
