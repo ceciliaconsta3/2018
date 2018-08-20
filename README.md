@@ -1,5 +1,5 @@
 # 2018
-A technical year in review
+A year in review
 
 ## Goals
 Last year, I completed my first round of [#100DaysOfCode](https://github.com/ceciliaconsta3/My-100-Days-of-Code) to start forming the habit while beginning my first development related job. Besides this p1xt-inspired guide, I'll do my best to beat or at least match the 29 credit streak I accomplished last term, as well as help any of the local business who approach me for freelance opportunities.
