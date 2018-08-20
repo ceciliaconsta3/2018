@@ -23,7 +23,6 @@ The following is a list of practice projects for android development intended to
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Project: Popular Movies
 - [ ] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
-- [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Course: [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Course: [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [ ] Project: Build it Bigger
@@ -33,7 +32,6 @@ The following is a list of practice projects for android development intended to
 - [ ] Project: Outbreak
 - [ ] Course: [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
 - [ ] Project: Space Kerfuffle
-- [ ] Course: [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Course: [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] Course: [Google Location Services on Android](https://www.udacity.com/course/google-location-services-on-android--ud876-1)
 - [ ] Course: [Monetize Your Android App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)
