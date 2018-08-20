@@ -3,7 +3,7 @@
 ### Notes
 The following is a list of practice projects for android development intended to be used as ideas for portfolio projects or for use in a speedrun (set aside a month or two and speed through as many as you can in that time - as an intensive hands on practice.)
  
-### Projects
+### Courses and Projects
 - [X] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [ ] Project: Build a Single Screen App
@@ -38,3 +38,7 @@ The following is a list of practice projects for android development intended to
 - [ ] Course: [Add Google Maps to your Android App](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)
 - [ ] Course: [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [ ] Advanced Project: My choice
+
+### Optional / For reference
+- [ ] Course: [Google - Build your First App](https://developer.android.com/training/basics/firstapp/)
+- [ ] Course: [Codepath Android Cliffnotes](https://guides.codepath.com/android)
