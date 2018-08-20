@@ -5,11 +5,11 @@ The following is the index for the Korean From Zero 1 text, not including additi
 guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 
 ### Content
-- [ ] Lesson A : Simple Hangul
-- [ ] Lesson B : Pure Vowels
-- [ ] Lesson C : Hard Hangul Sounds
-- [ ] Lesson D : Double Consonants
-- [ ] Lesson E : Final Consonants
+- [X] Lesson A : Simple Hangul
+- [X] Lesson B : Pure Vowels
+- [X] Lesson C : Hard Hangul Sounds
+- [X] Lesson D : Double Consonants
+- [X] Lesson E : Final Consonants
 - [ ] Lesson F : Typing
 - [ ] Lesson G : Sound Change Rules
 - [ ] Lesson 1 : 20 Starter Phrases
