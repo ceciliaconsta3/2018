@@ -1,4 +1,4 @@
-## Backend Development - LaunchCode Comprehensive
+## LaunchCode Backend Java Development - Comprehensive
 
 ### LaunchCode: Prep
 - [X] Prep 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
