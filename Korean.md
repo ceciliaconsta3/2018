@@ -31,5 +31,6 @@ guide to intermediate level proficiency and/or TOPIK 2 preparation.
 - [ ] Lesson 17 : Wanting and Colors
 
 ### Optional / For reference
+- [ ] [Yonsei University: First Step Korean](https://www.coursera.org/learn/learn-korean) 
 - [ ] The KPOP Dictionary
 - [ ] The KPOP Dictionary 2
