@@ -2,7 +2,7 @@
 
 ### Notes
 The following is the index for the Korean From Zero 1 text, not including additional appendix items, to serve as a solid 
-guide to intermediate level proficiency and/or TOPIK 2 preparation.
+guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 
 ### Content
 - [ ] Lesson A : Simple Hangul
