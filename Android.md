@@ -6,7 +6,7 @@ The following is a list of practice projects for android development intended to
 ### Courses and Projects
 - [X] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [X] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-- [ ] Project: Build a Single Screen App
+- [X] Project: Build a Single Screen App
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [ ] Project: Score Keeper App
 - [ ] Project: Quiz App
