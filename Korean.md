@@ -36,4 +36,7 @@ guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 - [ ] The KPOP Dictionary 2
 - [ ] Korean From Zero 2
 - [ ] Korean From Zero 3
+- [ ] Korean Grammar in Use
+- [ ] Sogang Korean series
+- [ ] Complete Guide to TOPIK
 
