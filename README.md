@@ -11,7 +11,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 ## Progress
 - School Credits Completed: 29 
 - Books Read: 4
-- Korean Lessons Completed: 5
+- Korean Lessons Completed: 6
 - Weeks of Adequate Activity: 36
 
 ## Work Breakdown
