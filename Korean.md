@@ -10,7 +10,7 @@ guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 - [X] Lesson C : Hard Hangul Sounds
 - [X] Lesson D : Double Consonants
 - [X] Lesson E : Final Consonants
-- [ ] Lesson F : Typing
+- [X] Lesson F : Typing
 - [ ] Lesson G : Sound Change Rules
 - [ ] Lesson 1 : 20 Starter Phrases
 - [ ] Lesson 2 : Numbers
