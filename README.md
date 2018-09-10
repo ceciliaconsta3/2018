@@ -12,7 +12,7 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [School Credits Completed](/Classes.md)
 - [Books Read](https://www.goodreads.com/review/list/84207402-cecilia?read_at=2018)
 - [Korean Lessons Completed](/Korean.md)
-- [Weeks of Adequate Activity](https://www.fitbit.com/activities)
+- [Monthly Activity](https://www.fitbit.com/user/6K95X5)
 - [Android P1xt Guide Progress](/Android.md)
 
 ## :cake: Side Endeavors
