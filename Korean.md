@@ -11,7 +11,7 @@ guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 - [X] Lesson D : Double Consonants
 - [X] Lesson E : Final Consonants
 - [X] Lesson F : Typing
-- [ ] Lesson G : Sound Change Rules
+- [X] Lesson G : Sound Change Rules
 - [ ] Lesson 1 : 20 Starter Phrases
 - [ ] Lesson 2 : Numbers
 - [ ] Lesson 3 : Self Introduction
