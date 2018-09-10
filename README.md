@@ -15,6 +15,6 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [Weeks of Adequate Activity](https://www.fitbit.com/activities)
 - [Android P1xt Guide Progress](/Android.md)
 
-## :cake: Other Side Endeavors
+## :cake: Side Endeavors
 - [Java LaunchCode Guide](/LaunchCode.md)
 - [Personal Site](https://ceciliaconstantine.com)
