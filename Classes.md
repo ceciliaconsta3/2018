@@ -1,13 +1,27 @@
 ## BS: Computer Science 
 
 ### Classes
+- [X] Web Development - Fundamentals
+- [X] Introduction to IT
+- [X] Principles of Management
+- [X] IT Foundations
+- [X] IT Applications
+- [X] Web Development - Applications
+- [X] User Interface Design
+- [X] Network and Security - Foundations
+- [X] Scripting and Programming - Applications
+- [X] Data Management - Foundations
+- [X] Data Management - Applications
+- [X] Organizational Behavior and Leadership
+- [X] Software Engineering
+- [X] Businesss of IT - Project Management
+- [X] Business of IT - Applications
 - [ ] Calculus
 - [ ] Data Structures and Algorithms I
 - [ ] Discrete Mathematics I
 - [ ] OS for Programmers
 - [ ] DS II
 - [ ] Computer Architecture
-- [ ] Prep: [Tim B. Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/)
 - [ ] Software I
 - [ ] Software II
 - [ ] DS & A II
