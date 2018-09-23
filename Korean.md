@@ -12,7 +12,7 @@ guide to beginner/intermediate level proficiency and/or TOPIK 1 preparation.
 - [X] Lesson E : Final Consonants
 - [X] Lesson F : Typing
 - [X] Lesson G : Sound Change Rules
-- [ ] Lesson 1 : 20 Starter Phrases
+- [X] Lesson 1 : 20 Starter Phrases
 - [ ] Lesson 2 : Numbers
 - [ ] Lesson 3 : Self Introduction
 - [ ] Lesson 4 : Simple Sentences
