@@ -1,4 +1,4 @@
-## BS: Computer Science 
+## BS: Software Development 
 
 ### Classes
 - [X] Web Development - Fundamentals
@@ -16,8 +16,13 @@
 - [X] Software Engineering
 - [X] Businesss of IT - Project Management
 - [X] Business of IT - Applications
+
+:star: Transfer into new program on recommendation :star:
+## BS: Computer Science 
+
+### Classes
 - [ ] Calculus
-- [ ] Data Structures and Algorithms I
+- [X] Data Structures and Algorithms I
 - [ ] Discrete Mathematics I
 - [ ] OS for Programmers
 - [ ] DS II
