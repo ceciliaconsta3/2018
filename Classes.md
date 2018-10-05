@@ -21,8 +21,8 @@
 ## BS: Computer Science 
 
 ### Classes
-- [ ] Calculus
 - [X] Data Structures and Algorithms I
+- [ ] Calculus
 - [ ] Discrete Mathematics I
 - [ ] OS for Programmers
 - [ ] DS II
