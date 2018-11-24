@@ -14,7 +14,3 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [Korean Lessons Completed](/Korean.md)
 - [Monthly Activity](https://www.fitbit.com/user/6K95X5)
 - [Android P1xt Guide Progress](/Android.md)
-
-## :cake: Side Endeavors
-- [Java LaunchCode Guide](/LaunchCode.md)
-- [Personal Site](https://ceciliaconstantine.com)
