@@ -14,3 +14,16 @@ Depending on time constraints and unforeseen circumstances, I may add some conte
 - [Korean Lessons Completed](/Korean.md)
 - [Monthly Activity](https://www.fitbit.com/user/6K95X5)
 - [Android P1xt Guide Progress](/Android.md)
+
+## :closed_book: Epilogue
+2018 was a stressful and challenging year behind the scenes. In regards to progress, we left off here:
+* Courses: 4
+* Books: 8
+* Korean Lessons: 9
+* Korean Meetups: 3
+* Activity: 413.76 miles
+* Apps: 1
+
+Between these small wins and since July (the start of this log), I also acquired a full-time Web Developer role, moved, made 3 offers on prospective homes, completed my first ever client project, traveled, fell in love with the minimal, low waste, and #nozerodays movements, and was diagnosed with a few conditions. It was tough but I'm extremely proud of how I handled the stress, patiently allowing myself to recover and recoup. 
+
+<blockquote>Here's to another year of change, discipline, laughter, and self-love</blockquote>
